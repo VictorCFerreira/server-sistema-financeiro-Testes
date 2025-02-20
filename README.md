@@ -4,7 +4,7 @@ Luan Filipe Finatto e Victor Cortelette
 
 
 
-Dessa forma, este documento apresenta a análise de quatro métodos, incluindo a elaboração dos Grafos de Fluxo de Controle (GFC), o cálculo da complexidade ciclomática e a identificação dos caminhos independentes de cada grafo.
+Este documento apresenta a análise de quatro métodos, incluindo a elaboração dos Grafos de Fluxo de Controle (GFC), o cálculo da complexidade ciclomática e a identificação dos caminhos independentes de cada grafo.
 
 ## Funções e Métodos Analisados
 
